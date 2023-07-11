@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+gB6o+PtOljtRoJajeMFa/v6uLAfj4Aafq2skdB6Dwc=",
+  "Source": "First-Viewer",
+  "BasePath": "_content/First-Viewer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "First-Viewer\\wwwroot",
+      "Source": "First-Viewer",
+      "ContentRoot": "D:\\Forge\\First-Viewer\\wwwroot\\",
+      "BasePath": "_content/First-Viewer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
