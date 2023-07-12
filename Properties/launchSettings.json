@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "my_aps_app": {
+    "MyApsApp": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
