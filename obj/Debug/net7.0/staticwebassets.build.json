@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YEQ5J/dYU9T9hmlSnxPpYPMwXV44YfZylwcOLo1MQdk=",
+  "Hash": "Lf+mO7UHb5KQWInxhmNRomJS+87Wf5IQb52IgjX1y+M=",
   "Source": "First-Viewer",
   "BasePath": "_content/First-Viewer",
   "Mode": "Default",
@@ -66,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\main.js"
-    },
-    {
-      "Identity": "D:\\Forge\\First-Viewer\\wwwroot\\sidebar.js",
-      "SourceId": "First-Viewer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Forge\\First-Viewer\\wwwroot\\",
-      "BasePath": "_content/First-Viewer",
-      "RelativePath": "sidebar.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sidebar.js"
     },
     {
       "Identity": "D:\\Forge\\First-Viewer\\wwwroot\\viewer.js",

@@ -1,27 +1,33 @@
 ﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:38524",
-      "sslPort": 44323
+      "applicationUrl": "http://localhost:8080",
+      "sslPort": 44318
     }
   },
   "profiles": {
-    "MyApsApp": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "applicationUrl": "http://localhost:8080",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "APS_CLIENT_ID": "QATg6YLBgVSfTNt1gYvhbECd9jRS2KZX",
+        "APS_CLIENT_SECRET": "F9uG58bgBrVj3Qf4"
+      }
+    },
+    "aps_simple_viewer_dotnet": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "hotReloadProfile": "aspnetcore",
+      "applicationUrl": "http://localhost:8080",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "APS_CLIENT_ID": "QATg6YLBgVSfTNt1gYvhbECd9jRS2KZX",
+        "APS_CLIENT_SECRET":"F9uG58bgBrVj3Qf4"
       }
     }
   }

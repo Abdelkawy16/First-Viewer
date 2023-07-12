@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\main.js"
     },
     {
-      "Id": "D:\\Forge\\First-Viewer\\wwwroot\\sidebar.js",
-      "PackagePath": "staticwebassets\\sidebar.js"
-    },
-    {
       "Id": "D:\\Forge\\First-Viewer\\wwwroot\\viewer.js",
       "PackagePath": "staticwebassets\\viewer.js"
     },
